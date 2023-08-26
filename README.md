@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Krishna Tiwari</h1>
-<h3 align="center">A passionate Full Stack "MERN and Next.js" Stack Developer From Nepal</h3>
+<h3 align="center">A passionate Full Stack "MERN and Next.js"  Developer From Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-cyber" /> </p>
 
